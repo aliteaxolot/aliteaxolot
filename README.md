@@ -6,7 +6,8 @@
 ---
 <p align="Centre">
   <img  alt="aliteaxolot's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/aliteaxolot?cardType=github&theme=dark&fontFamily=Actor&preferLogin=false&Points.Commits=199&Ring=DDDDDD&Text=4DDD76" />
-  <img width="390" height="200" alt="image" src="https://github.com/user-attachments/assets/2fe9636c-6f21-4ddc-9b64-ba0ded0f1ec4" />
+  <img width="390" height="200" alt="image" src="https://github.com/user-attachments/assets/13c8b3e6-f58d-4739-afd8-afd1123c863a" />
+
 
 ---
 <p align="left">
